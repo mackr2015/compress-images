@@ -4,3 +4,7 @@ images/
 
 # ignore env
 venv/
+
+# ignore python cache files
+*.pyc
+__pycache__/
