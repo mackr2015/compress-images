@@ -1,0 +1,6 @@
+# ignore local saved images
+compressed_images/
+images/ 
+
+# ignore env
+venv/
